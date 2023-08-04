@@ -34,7 +34,6 @@ html {
   }
   
   .navbar-toggler {
-    padding: 0rem 0rem !important;
     position: relative !important;
     background-color: transparent !important;
     border-color: transparent !important;
