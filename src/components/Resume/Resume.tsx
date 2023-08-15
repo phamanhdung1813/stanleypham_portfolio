@@ -75,9 +75,9 @@ function Resume() {
               company="Canada Life Assurance"
               date="September 2022 - May 2023"
               content={[
-                "Developed Java Apache Kafka application with Maven project, connected multiple API by HTTP and analyzed workflow solution.",
-                "Debugged error with Splunk Cloud, integrated and deployed the application to IBM FileNet environment.",
-                "Extracted data as per specification, exported data to CSV file and triggered the event action.",
+                "Developed the comprehensive end-to-end application with Java Apache Kafka on Maven project with. Achieved 90% advancement in real-time data and 65% reduction in erroneous values.",
+                "Debugged errors with Splunk Cloud to decrease 70% of incorrect communication instances between the APIs, integrated and completed 55% of Process Designer on IBM FileNet.",
+                "Extracted the real-time data as per user’s specification, exported the data to CSV files, and triggered the event action to increase 75% of the data accuracy and reliability.",
               ]}
             />
 
@@ -86,9 +86,9 @@ function Resume() {
               company="FDM Group"
               date="May 2022 - September 2022"
               content={[
-                "Developed Java core fundamental, and web application on Angular and JavaScript.",
-                "Integrated Spring Boot Maven on REST, Microservices, Data Access (JDBC, JPA, SQL).",
-                "Agile Project Management and interpersonal skill.",
+                "Developed Java core fundamental to handle the algorithms, APIs, and web application.",
+                "Integrated Spring Boot Maven to develop end-to-end APIs, which increased multiple microservices between applications, and established communication with Data Access (JDBC, JPA, SQL).",
+                "Contributed in developing the project through the Agile management platform.",
               ]}
             />
 
@@ -97,9 +97,9 @@ function Resume() {
               company="Seneca College of Applied Arts and Technology"
               date="April 2021 – August 2021"
               content={[
-                "Researched Python Bash Scripting, analyzed networking tasks, and enhanced practical lab requirements.",
-                "Co-operated, supported, and contributed to the lesson quality.",
-                "Wrote the report, answered the student questions, organized, and delivered learning activities.",
+                "Assisted incoming students in resolving laboratory challenges and monitored practical lab assessments.",
+                "Conducted in-depth research into Python Bash Scripting, analyzed the network security tasks, and enhanced practical lab requirements. Contributed in a 65% of overall learning activities.",
+                "Developed comprehensive report, addressed student’ inquiries, organized learning materials, and facilitated the delivery of educational content.",
               ]}
             />
           </Col>
