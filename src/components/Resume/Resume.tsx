@@ -6,7 +6,7 @@ import { SiLinkedin } from "react-icons/si";
 import { MdEmail } from "react-icons/md";
 import { BiWorld } from "react-icons/bi";
 import { BsGithub, BsFillTelephoneInboundFill } from "react-icons/bs";
-import myResume from "../../Assets/Resume/AnhDungPham_Resume.pdf";
+import myResume from "../../Assets/Resume/StanleyPham_Resume.pdf";
 
 function Resume() {
   return (
